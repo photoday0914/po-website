@@ -1,7 +1,7 @@
 import s from "./IntroSection.module.scss";
 import avatar from "../../../assets/photo.png";
 import { SiGmail } from "react-icons/si";
-import { FaLinkedinIn } from "react-icons/fa";
+// import { FaLinkedinIn } from "react-icons/fa";
 import Tilt from "react-parallax-tilt";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 
@@ -51,7 +51,7 @@ const IntroSection = () => {
         <ul className={s.socialLinks}>
           <li className={s.socialLink}>
             <a
-              href="mailto:phillipgrandi89@gmail.com"
+              href="mailto:philipgrandietti@outlook.com"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
@@ -68,17 +68,7 @@ const IntroSection = () => {
             >
               <SiSkype />
             </a>
-          </li> */}
-          <li className={s.socialLink}>
-            <a
-              href="https://www.linkedin.com/in/phillip-grandi-58ba32a3"
-              target="_blank"
-              rel="noreferrer"
-              className={s.socialIcon}
-            >
-              <FaLinkedinIn />
-            </a>
-          </li>
+          </li> */}          
         </ul>
       </div>
     </section>

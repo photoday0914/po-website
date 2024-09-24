@@ -1,7 +1,7 @@
 import s from "./Contact.module.scss";
 import { ReactComponent as FilesIcon } from "../../assets/contact-us.svg";
 import BaseLayout from "../../layouts/BaseLayout/BaseLayout";
-import Button from "../../components/UIElements/Button/Button";
+// import Button from "../../components/UIElements/Button/Button";
 import EmailManager from "./EmailManager";
 
 const Resume = () => {

@@ -7,7 +7,7 @@ import dappDevImg from "../../assets/dapp.png";
 import AboutTextCard from "./AboutTextCard/AboutTextCard";
 import TechSkills from "./TechSkills/TechSkills";
 import { ImPointRight } from "react-icons/im";
-import Button from "../../components/UIElements/Button/Button";
+// import Button from "../../components/UIElements/Button/Button";
 
 const About = () => {
   return (
