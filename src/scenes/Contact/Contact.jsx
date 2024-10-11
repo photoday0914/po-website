@@ -24,7 +24,7 @@ const Resume = () => {
             philipgrandietti@outlook.com</p>
             <br />
             <div>
-              <p className={s.smallText} style={{textAlign:"left"}}>LOCATION : Pavlodar, Kazakhstan</p>              
+              
               <br />
               
             </div>
